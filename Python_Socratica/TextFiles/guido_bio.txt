@@ -1,0 +1,7 @@
+Guido van Rossum is a Dutch computer scientist, author of the Python programming language and has worked at Google and Dropbox.
+
+Van Rossum is also the author of Rietveld_, a web-based collaborative code review tool for Subversion_ which runs on Google's cloud service. Rietveld was van Rossum's first project as a Google Engineer. [2] Van Rossum based Rietveld on the experience he had writing Mondrian. Mondrian was a proprietary application used internally by Google to review their code. [2]
+
+In January 2013, Guido joined Dropbox. He works on various Dropbox products and have 50% for his Python work, no strings attached. [1] Previously, he has worked for Google, `Elemental Security`_, `Zope Corporation`_, BeOpen.com_, CNRI_, CWI_, and SARA_. [1] Guido created Python while at CWI.
+
+He moved from the Netherlands to the USA in 1995, where he met his wife. Until July 2003 they lived in the northern Virginia suburbs of Washington, DC with their son Orlijn, who was born in 2001. They then moved to Silicon Valley where Guido worked for for a variety of companies including Google and Dropbox (spending 50% of his time on Python!).
