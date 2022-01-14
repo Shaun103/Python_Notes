@@ -1,0 +1,19 @@
+{
+     "title": "The Powerpuff Girls",
+     "release_year": 1997,
+     "is_awesome": true,
+     "won_oscar": false,
+     "actors": [
+          "The professor",
+          "Blossom",
+          "Bubbles",
+          "Buttercup"
+     ],
+     "budget": null,
+     "credits": {
+          "director": "Andrew Niccol",
+          "writer": "Andrew Niccol",
+          "composer": "Michael Nyman",
+          "cinematographer": "Slawomir Idziak"
+     }
+}
